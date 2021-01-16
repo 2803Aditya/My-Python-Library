@@ -3,7 +3,7 @@
 ![](Images/GSheet_Python.png)
 
 # Introduction
-===================
+
 
 ## gspread Library
 gspread is a Python API for Google Sheets.
